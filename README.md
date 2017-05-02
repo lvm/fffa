@@ -36,4 +36,4 @@ Un ejemplo de JSON *correcto* es el siguiente (es necesario usar doble-comillas)
 
 ## License
 
-See [LICENSE]
+See [LICENSE](LICENSE)
